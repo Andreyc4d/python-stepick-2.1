@@ -1,3 +1,4 @@
+DescrClass = [] #description error class 2 dim list
 with open('input.txt', 'r') as f:
     n=int(f.readline())
     print('n='+str(n))
