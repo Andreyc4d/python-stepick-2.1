@@ -1,12 +1,10 @@
-5
+4
 ArithmeticError
 ZeroDivisionError : ArithmeticError
 OSError
 FileNotFoundError : OSError
-WrongPathError : FileNotFoundError
-5
+4
 ZeroDivisionError
 OSError
 ArithmeticError
-WrongPathError
 FileNotFoundError
